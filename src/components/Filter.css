@@ -1,0 +1,13 @@
+input{
+    margin-top: 18px;
+    height: 30px;
+    width: 60%;
+}
+.span1{
+    margin: 13px;
+    background-color: bisque;
+    width: 60%;
+    margin: 12px auto;
+    height: 30px;
+    font-size: 20px;
+}
